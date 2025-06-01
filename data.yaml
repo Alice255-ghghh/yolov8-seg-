@@ -1,0 +1,9 @@
+path: C:\Users\zyb13\Desktop\YOLO检测\datasets
+train: C:\Users\zyb13\Desktop\YOLO检测\datasets\train\images
+val: C:\Users\zyb13\Desktop\YOLO检测\datasets\valid\images
+test: C:\Users\zyb13\Desktop\YOLO检测\datasets\test\images
+
+nc: 26
+names: ['A', 'B', 'C', 'D', 'E', 'F', 'G', 'H', 'I', 'J', 'K', 'L', 'M', 'N', 'O', 'P', 'Q', 'R', 'S', 'T', 'U', 'V', 'W', 'X', 'Y', 'Z']
+
+
